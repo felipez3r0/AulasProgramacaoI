@@ -20,6 +20,35 @@ Foi criado por Linus Torvalds em 2005 para desenvolver o kernel do Linux.
 - `git status`: Mostra o estado atual do repositório.
 - `git log`: Mostra o histórico de commits.
 
+## gitignore
+
+O arquivo `.gitignore` é usado para especificar arquivos e diretórios que devem ser ignorados pelo Git. Isso é útil para evitar que arquivos desnecessários sejam incluídos no repositório.
+
+Exemplo de `.gitignore`:
+
+```plaintext
+# Arquivos temporários
+*.tmp
+
+# Diretórios
+node_modules/
+
+# Arquivos de configuração
+.env
+```
+
+## Branches
+
+Branches são ramificações do código principal que permitem que você trabalhe em novas funcionalidades sem afetar o projeto principal. Isso é útil para experimentar novas ideias e manter o código principal estável.
+
+### Comandos Básicos de Branches
+
+- `git branch`: Lista as branches existentes.
+- `git branch <nome>`: Cria uma nova branch.
+- `git checkout <nome>`: Muda para a branch especificada.
+- `git merge <nome>`: Mescla a branch especificada na branch atual.
+- `git branch -d <nome>`: Deleta a branch especificada.
+
 ## Fluxo de Trabalho
 
 1. Modifique os arquivos do seu projeto.

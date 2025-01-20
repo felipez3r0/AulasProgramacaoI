@@ -47,3 +47,19 @@ PR (Pull Request) é uma solicitação de alteração que você envia para o rep
 - **Revisão de código**: Outras pessoas podem revisar suas alterações e fornecer feedback.
 - **Discussão**: Você pode discutir as alterações propostas antes de mesclá-las.
 - **Rastreamento**: Você pode acompanhar o progresso das alterações e quem as fez.
+
+## Praticando
+
+### Atividade 1
+
+1. Crie um repositório Git.
+2. Adicione um arquivo README.md com uma breve descrição do projeto.
+3. Adicione um arquivo .gitignore para ignorar arquivos desnecessários.
+4. Faça um commit das alterações.
+
+### Atividade 2
+
+1. Crie uma nova branch chamada `feature`.
+2. Adicione um novo arquivo ao projeto.
+3. Faça um commit das alterações.
+4. Crie um PR para mesclar as alterações na branch principal.

@@ -212,7 +212,7 @@ for ($numero = 1; $numero <= 10; $numero++) {
 }
 ```
 
-## Praticando
+## Praticando 🚀
 
 Crie um arquivo chamado `exercicio.php` e faça um código que vai ter uma variável chamada `$numero`, em seguida imprima a tabuada desse número de 1 a 10.
 
@@ -229,3 +229,28 @@ Exemplo de saída esperado
 9 x 5 = 45
 10 x 5 = 50
 ```
+
+## Desafio 🏆
+
+Queremos criar uma calculadora para verificar quanto de imposto alguém vai ter descontado do seu salário dependendo do valor que ele recebeu, para isso, crie um arquivo chamado `calculadora.php` e construa um formulário que vai ter um campo para inserir o salário e um botão para enviar o formulário, em seguida, faça um código que vai receber o valor do salário e calcular o imposto de acordo com a tabela abaixo:
+
+- Salário até R$ 1.903,98: Isento
+- Salário de R$ 1.903,99 até R$ 2.826,65: 7,5%
+- Salário de R$ 2.826,66 até R$ 3.751,05: 15%
+- Salário de R$ 3.751,06 até R$ 4.664,68: 22,5%
+- Salário acima de R$ 4.664,68: 27,5%
+
+Exemplo de saída esperado
+```
+Salário: R$ 2.000,00
+Imposto: R$ 150,00
+```
+
+Pesquise como receber valores de um formulário em PHP e como formatar números (uma dica - pesquise sobre $_POST e number_format).
+
+## Referências 📚
+
+- [PHP: Hypertext Preprocessor](https://www.php.net/)
+- [Manual do PHP - Documentação oficial](https://www.php.net/manual/pt_BR)
+- [PHP - Wikipédia](https://pt.wikipedia.org/wiki/PHP)
+- [PHP - Codecademy](https://www.codecademy.com/learn/learn-php)

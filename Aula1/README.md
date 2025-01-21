@@ -77,7 +77,7 @@ PR (Pull Request) é uma solicitação de alteração que você envia para o rep
 - **Discussão**: Você pode discutir as alterações propostas antes de mesclá-las.
 - **Rastreamento**: Você pode acompanhar o progresso das alterações e quem as fez.
 
-## Praticando
+## Praticando 🚀
 
 ### Atividade 1
 
@@ -92,3 +92,9 @@ PR (Pull Request) é uma solicitação de alteração que você envia para o rep
 2. Adicione um novo arquivo ao projeto.
 3. Faça um commit das alterações.
 4. Crie um PR para mesclar as alterações na branch principal.
+
+## Referências 📚
+
+- [Documentação do Git](https://git-scm.com/doc)
+- [Tutoriais - Atlassian Git](https://www.atlassian.com/git/tutorials)
+- [Guias do GitHub](https://docs.github.com/pt)

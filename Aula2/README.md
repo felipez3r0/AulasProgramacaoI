@@ -193,14 +193,26 @@ function changeText() {
 
 O código acima define uma função `changeText()` que altera o conteúdo do parágrafo com o ID `demo` quando o botão é clicado. O JavaScript oferece diversas APIs e recursos para interagir com elementos da página, como `document`, `addEventListener`, `querySelector`, entre outros.
 
-## Próximos Passos
+## Próximos Passos 🚀
 
 Vamos discutir mais sobre HTML, CSS e Javascript nas próximas aulas, explorando conceitos avançados e práticas recomendadas para o desenvolvimento web. Nas aulas de Programação II vamos discutir também conceitos relacionados a frameworks e bibliotecas populares, como React, Angular e Vue.js.
 
-## Praticando
+## Praticando 🚀
 
 Vamos criar uma página simples que apresente os conceitos discutidos sobre HTML, CSS e JavaScript. Você pode utilizar o VS Code para escrever o código e visualizar o resultado em um navegador. Experimente criar diferentes estilos, layouts e interações para aprimorar suas habilidades de desenvolvimento web.
 
 Crie uma pasta chamada `aula2` e adicione os arquivos `index.html`, `styles.css` e `script.js` com o código necessário para a página. Você pode adicionar elementos como títulos, parágrafos, botões, imagens, links, entre outros, para explorar as possibilidades de criação de páginas da Web.
 
 Na documentação da MDN você pode encontrar uma lista de elementos do HTML e suas propriedades, bem como tutoriais e guias para aprender mais sobre desenvolvimento web. (https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+
+## Desafio 🏆
+
+Utilizando HTML e CSS vamos construir um e-mail marketing simples com título, imagens, textos e ao final um botão de chamada para ação (CTA). A ideia desse e-mail é promover o site construído na atividade anterior, pesquise por referências de e-mails marketing e tente criar algo atraente e responsivo.
+
+## Referências 📚
+
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Grid Garden](https://cssgridgarden.com/)
+- [Stack Overflow](https://stackoverflow.com/)

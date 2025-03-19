@@ -128,6 +128,10 @@ $ultimo = array_pop($numeros);
 sort($numeros);
 ```
 
+### Outros tipos
+
+Uma lista detalhada com os tipos e seus principais pontos pode ser encontrada na documentação oficial do PHP em - [Tipos](https://www.php.net/manual/pt_BR/language.types.php)
+
 ### Foreach com Arrays
 
 O `foreach` é especialmente útil para percorrer arrays:
@@ -187,7 +191,9 @@ Crie um sistema simples de agenda em PHP que permita:
 - Buscar contatos por nome
 - Remover contatos
 
-Use arrays associativos para armazenar os contatos e crie funções para cada operação. O programa deve rodar em loop até que o usuário escolha sair.
+Use arrays associativos para armazenar os contatos e crie funções para cada operação.
+
+Uma opção é trabalhar com o $_SESSION para armazenar os dados entre os envios, já que a variavel em memória será zerada sempre que um form é enviado.
 
 ## Referências 📚
 
